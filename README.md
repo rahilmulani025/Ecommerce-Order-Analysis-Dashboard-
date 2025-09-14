@@ -44,12 +44,20 @@ It provides actionable insights into **sales, profit, shipping costs, and order 
 
 ---
 
-## 📷 Dashboard Preview  
-Here’s a snapshot of the dashboard:  
+<h2 align="center">📊 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="./dashboard.png" alt="Dashboard Preview" width="800px" />
+  <img src="./images/dashboard1.jpg" alt="Dashboard 1" width="700"/>
 </p>
+
+<p align="center">
+  <img src="./images/dashboard2.jpg" alt="Dashboard 2" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./images/dashboard3.jpg" alt="Dashboard 3" width="700"/>
+</p>
+
 
 ---
 
